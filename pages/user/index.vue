@@ -27,7 +27,7 @@ export default {
 }
 </script>
 
-<style scooped>
+<style scoped>
 .card {
   max-width: 80%;
   margin: auto;
